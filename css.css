@@ -1,0 +1,71 @@
+body{
+    background: #f4f4f4!important;
+    font-family: Oswald !important;
+}
+
+.font{
+    font-family: Raleway, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif;
+}
+.body p{
+    font-size: 1.3em;
+}
+.blog-header{
+    background: #1B1B1B;
+}
+
+.text-up{
+    text-transform: uppercase;
+}
+.foot{
+    border-top: 1px dashed #e5e5e5;
+}
+
+.foot p{
+    font-size: 1.3em;
+    color: #bbb;
+}
+.blog-header-logo{
+    position: relative;
+    width: 100%;
+    float: left;
+    padding: 80px 0 70px 0;
+}
+
+.nav-link{
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #fff!important;
+    float: left;
+    padding: 13px 15px 20px 15px;
+}
+
+.head h1{
+    font-size: 3em;
+}
+.bg-nav{
+    background: #222222;
+
+}
+
+.txt-color{
+    color: #bbb;
+}
+.lh-mio{
+    line-height: 25px!important;
+}
+
+.ml-nav{
+    margin-left: 10%!important;
+}
+
+.box-mia{
+    box-shadow:0px 0px 7px #0000000f;
+}
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #1b1b1b;
+}
